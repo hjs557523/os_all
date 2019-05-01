@@ -1,0 +1,6 @@
+ ‰»Î:
+fcfs 3
+12 6 8
+
+ ‰≥ˆ:
+fcfs order:P00 P01 P02 P00 P01 P02 P00 P01 P02 P00 P02 P00 P00
