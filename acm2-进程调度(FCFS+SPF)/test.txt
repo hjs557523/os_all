@@ -1,6 +1,6 @@
-ÊäÈë:
+input:
 fcfs 3
 12 6 8
 
-Êä³ö:
+output:
 fcfs order:P00 P01 P02 P00 P01 P02 P00 P01 P02 P00 P02 P00 P00
